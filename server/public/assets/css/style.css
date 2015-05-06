@@ -1,0 +1,48 @@
+form {
+    display: inline;
+}
+
+body {
+    font-family: 'Gloria Hallelujah', sans-serif;
+    background-image: url('../contemporary_china.png');
+}
+
+.img, .data {
+    margin-top: 2em;
+}
+
+.data h1 {
+    text-align: center;
+}
+
+.form {
+    position: relative;
+}
+
+#btn {
+    padding-left: 22px;
+}
+
+.form i {
+    position: absolute;
+    padding: 8px 8px;
+    font-size: 10px;
+}
+.img{
+    position: relative;
+}
+.img img {
+    width: 100%;
+}
+.img span {
+    position: absolute;
+    left: 40px;
+    top: 330px;
+    color: crimson;
+    font-size: 150px;
+}
+
+.well {
+    background-color: mintcream;
+    border: 1px black solid;
+}
